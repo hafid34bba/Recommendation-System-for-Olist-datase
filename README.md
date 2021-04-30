@@ -1,4 +1,4 @@
-# Recommendation-System-for-Olist-datase
+# Recommendation-System-for-Olist-dataset
 
 This repository is about building a recommendation systems for Olist dataset from kaggle
 
